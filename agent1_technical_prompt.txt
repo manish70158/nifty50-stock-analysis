@@ -1,0 +1,88 @@
+You are a Technical Analysis specialist. Analyze RELIANCE.NS using the discovery data below and your own additional research via WebSearch.
+
+DISCOVERY DATA:
+**RELIANCE INDUSTRIES LIMITED (RELIANCE.NS)**
+Generated: May 9, 2026
+
+CURRENT MARKET DATA:
+- Current Price: ₹1,435.20 INR (May 8, 2026)
+- Daily Change: -₹1.00 (-0.07%)
+- Weekly Performance: +1.86%
+- Monthly Performance: +6.39%
+- Year-to-Date: +2.21%
+- Market Cap: ₹19.43 trillion (~$233 billion)
+- 52-Week High: ₹1,611.80 (January 5, 2026)
+- 52-Week Low: ₹1,290.00
+- Beta: 0.92 (lower volatility than market)
+- Volatility: 1.78%
+
+COMPANY: India's largest private sector corporation - Energy, Petrochemicals, Retail, Telecom (Jio), New Energy
+Chairman: Mukesh Ambani | Market Cap: ₹19.43 trillion
+
+FINANCIAL SNAPSHOT:
+- P/E: 44.29 (high) | P/B: 3.43x | EPS: ₹32.40
+- Revenue FY2026: ₹11.76 lakh crores | Net Profit: ₹95,754 crores
+- ROE: 6.67% (low) | Debt/Equity: 0.37 (healthy)
+- Sales Growth: -3.21% | Profit Growth: -16.13% (concerning)
+- Last Quarter EPS Miss: -18.38% vs estimates
+
+CATALYSTS:
+- Jio IPO planned H1 2026
+- Q4 FY2026 results released April 24, 2026
+- Trading at 3.43x book with declining earnings
+
+YOUR MANDATE — Deliver a comprehensive technical analysis covering:
+
+1. TREND ANALYSIS
+   - Primary trend direction (bullish / bearish / sideways)
+   - EMA 20/50/200 alignment and slope
+   - Price position relative to key moving averages
+   - Higher highs / higher lows pattern (or inverse)
+
+2. SUPPORT & RESISTANCE
+   - Identify at least 3 support levels with reasoning
+   - Identify at least 3 resistance levels with reasoning
+   - Note which levels have highest confluence
+
+3. MOMENTUM INDICATORS
+   - RSI (14): current value and trend, overbought/oversold status
+   - MACD: signal line position, histogram direction, divergences
+   - Stochastic: %K/%D position and crossover status
+
+4. VOLUME ANALYSIS
+   - Current volume vs 20-day and 50-day average
+   - Accumulation/distribution pattern
+   - On-Balance Volume (OBV) trend
+   - Any volume divergences from price
+
+5. CHART PATTERNS
+   - Active patterns (flags, wedges, head & shoulders, cups, double tops/bottoms)
+   - Pattern completion percentage and implied target
+   - Breakout/breakdown levels
+
+6. ADDITIONAL TECHNICAL FACTORS
+   - Bollinger Band position (upper/middle/lower, squeeze status)
+   - Moving average crossovers (golden cross, death cross proximity)
+   - Relative strength vs NIFTY 50 over 1-month, 3-month, 6-month periods
+   - Fibonacci retracement levels from recent swing
+
+SCORING — Provide a Technical Score (0-100) broken into:
+   - Trend Score (0-20): Are moving averages aligned bullishly?
+   - Momentum Score (0-20): Are oscillators confirming the trend?
+   - Volume Score (0-20): Is volume supporting the price action?
+   - Pattern Quality (0-20): Are there clear, actionable patterns?
+   - Relative Strength (0-20): Is this outperforming the market?
+
+Return your analysis in this exact format:
+## Technical Analysis: RELIANCE.NS
+### Technical Score: [X]/100
+[Trend: X/20 | Momentum: X/20 | Volume: X/20 | Pattern: X/20 | Rel Strength: X/20]
+### Signal: [Bullish / Neutral / Bearish]
+[Then provide the full analysis organized by the 6 sections above]
+### Key Levels
+- Entry Zone: ₹X - ₹X
+- Stop Loss: ₹X (X% below entry)
+- Target 1: ₹X (X% upside)
+- Target 2: ₹X (X% upside)
+
+DISCLAIMER: This is for educational and research purposes only. Not financial advice.

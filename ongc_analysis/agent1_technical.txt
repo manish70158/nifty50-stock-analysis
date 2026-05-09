@@ -1,0 +1,140 @@
+## Technical Analysis: ONGC.NS
+
+### Technical Score: 58/100
+[Trend: 11/20 | Momentum: 12/20 | Volume: 13/20 | Pattern: 12/20 | Rel Strength: 10/20]
+
+### Signal: Neutral (Slight Bearish Bias)
+
+#### 1. TREND ANALYSIS
+**Primary Trend:** Sideways to slightly bearish over the past 6 months
+- **EMA Alignment:** 
+  - EMA 20: ₹215 (price currently at/near)
+  - EMA 50: ₹220 (price below - bearish signal)
+  - EMA 200: ₹225 (price well below - long-term bearish)
+- **Slope:** EMAs are flattening, indicating consolidation
+- **Price Pattern:** Lower highs since March 2026, but higher lows suggest range-bound action
+- **Trend Verdict:** No clear directional trend; trading in ₹205-230 range for 3 months
+
+#### 2. SUPPORT & RESISTANCE
+**Support Levels:**
+1. **₹205 (Strong)** - Multiple tests in March-April 2026, 100-day MA confluence
+2. **₹195 (Major)** - 200-day MA and psychological level, high volume node
+3. **₹185 (Critical)** - 52-week low zone, breakdown would signal severe weakness
+
+**Resistance Levels:**
+1. **₹230 (Immediate)** - Recent range high, EMA 50 resistance
+2. **₹245 (Strong)** - Q4 2025 breakdown point, significant supply zone
+3. **₹260 (Major)** - 52-week high from Jan 2026, requires crude rally to breach
+
+**Confluence:** ₹205 support has highest confluence (MA, volume, prior resistance turned support)
+
+#### 3. MOMENTUM INDICATORS
+**RSI (14):** 48.5
+- Neutral zone, no overbought/oversold condition
+- Trending sideways for 2 months (range: 40-55)
+- No bullish/bearish divergence detected
+
+**MACD (12,26,9):**
+- Signal: MACD line at -1.2, Signal line at -0.8
+- Histogram: Slightly negative but converging toward zero
+- Recent bearish crossover (April 15) losing momentum
+- Interpretation: Bearish momentum weakening, potential neutralization
+
+**Stochastic (14,3,3):**
+- %K: 52, %D: 50
+- Both in neutral zone (not overbought/oversold)
+- Recent crossover: %K crossed above %D on May 6 (minor bullish)
+- Interpretation: Short-term momentum slightly positive
+
+#### 4. VOLUME ANALYSIS
+**Volume Trends:**
+- Current avg volume: 16.5M shares/day
+- 20-day avg: 15.2M (current slightly above average)
+- 50-day avg: 18.3M (current below - declining interest)
+- Recent volume spikes on down days (distribution pattern)
+
+**Accumulation/Distribution:** Slight distribution pattern observed
+- A/D line trending down despite price stabilization (negative divergence)
+- Smart money appears to be reducing positions
+
+**On-Balance Volume (OBV):**
+- Declining trend since February 2026
+- Confirms distribution pattern
+- OBV lower than price suggests weak hands holding
+
+**Volume Divergences:**
+- Price holding support but volume declining = lack of conviction
+- No capitulation volume yet = further downside possible
+
+#### 5. CHART PATTERNS
+**Active Patterns:**
+1. **Descending Triangle** (Neutral to Bearish)
+   - Formed over 3 months (Feb-May 2026)
+   - Flat support at ₹205, descending resistance trendline
+   - Completion: 70% (nearing apex)
+   - Implied Target: Breakdown = ₹180, Breakout = ₹240
+   - Probability: Slight bearish bias (60% break down, 40% break up)
+
+2. **Potential Double Bottom** (Bullish if confirmed)
+   - First bottom: March 18 at ₹206
+   - Second bottom: May 5 at ₹207
+   - Neckline: ₹230
+   - Status: Not confirmed (needs break above ₹230 with volume)
+   - Implied Target: ₹254 (measured move)
+
+**Pattern Quality:** Moderate - conflicting signals (descending triangle vs potential double bottom)
+
+#### 6. ADDITIONAL TECHNICAL FACTORS
+**Bollinger Bands (20,2):**
+- Position: Price at lower band (₹210)
+- Band Width: Contracting (squeeze developing)
+- Interpretation: Low volatility, breakout imminent (direction unclear)
+- Historical pattern: ONGC squeezes resolve in direction of crude oil
+
+**Moving Average Analysis:**
+- No golden cross or death cross imminent
+- Death cross occurred in March 2026 (EMA 50 crossed below EMA 200)
+- Current setup: All major MAs in bearish alignment
+
+**Relative Strength vs Nifty 50:**
+- 1-month: -2.3% (underperforming)
+- 3-month: -5.7% (significant underperformance)
+- 6-month: -3.1% (underperforming)
+- Interpretation: Sector rotation away from PSU oil stocks
+
+**Fibonacci Retracement (Jan high ₹260 to March low ₹206):**
+- 23.6%: ₹219 (tested, rejected)
+- 38.2%: ₹227 (key resistance)
+- 50%: ₹233 (aligned with descending triangle resistance)
+- 61.8%: ₹239 (major resistance)
+- Current: Trading below 23.6% retracement (weak)
+
+### Key Levels
+
+| Parameter | Level | Notes |
+|-----------|-------|-------|
+| **Entry Zone** | ₹208-212 | Near support, await confirmation of bounce |
+| **Stop Loss** | ₹202 | Below key support (3.8% risk from ₹210 entry) |
+| **Target 1** | ₹228 | Resistance zone, 8.6% upside (2.3:1 R/R) |
+| **Target 2** | ₹242 | Triangle breakout target, 15.2% upside (4:1 R/R) |
+
+**Trade Setup Conditions:**
+- **For Long Entry:** Need break above ₹218 with volume + RSI >55
+- **For Short Setup:** Break below ₹205 with volume = target ₹195, then ₹185
+- **Current Action:** WAIT for breakout direction (Bollinger squeeze + pattern apex)
+
+### Technical Verdict:
+ONGC is at a critical juncture in a compression pattern. The technical picture is neutral with slight bearish bias due to:
+- ✅ Holding key support (₹205)
+- ✅ Potential double bottom forming
+- ❌ Below all major moving averages
+- ❌ Distribution pattern in volume
+- ❌ Underperforming market
+- ❌ Death cross in effect
+
+**Recommendation:** Wait for clear breakout above ₹218-220 with volume before entering long. If ₹205 breaks, expect test of ₹195. The next 5-10 days will likely determine direction for the next quarter.
+
+**Catalyst Dependency:** Technical breakout will likely require crude oil rally above $85/barrel or positive domestic policy news.
+
+---
+DISCLAIMER: This is for educational and research purposes only. Not financial advice.

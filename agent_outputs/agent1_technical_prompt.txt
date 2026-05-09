@@ -1,0 +1,100 @@
+You are a Technical Analysis specialist. Analyze HEROMOTOCO.NS using the discovery data below and your own additional research.
+
+DISCOVERY DATA:
+=== DISCOVERY BRIEF: HEROMOTOCO.NS (Hero MotoCorp Ltd) ===
+Generated: May 9, 2026
+
+TICKER: HEROMOTOCO.NS
+COMPANY: Hero MotoCorp Limited
+EXCHANGE: National Stock Exchange of India (NSE)
+
+--- COMPANY OVERVIEW ---
+Hero MotoCorp Limited is India's largest two-wheeler manufacturer and one of the world's largest manufacturers of motorcycles and scooters by unit volume. The company manufactures and sells motorcycles and scooters under the "Hero" brand through an extensive network of over 6,000+ dealerships and 400+ service points across India. Hero MotoCorp emerged after ending its 26-year partnership with Honda Motor Company in 2010. The company is headquartered in New Delhi, India.
+
+Key Products:
+- Motorcycles: Splendor, HF Deluxe, Passion, Glamour, Super Splendor, Xtreme series
+- Scooters: Maestro, Pleasure, Destini
+- Premium Segment: XPulse, Karizma
+- Electric Vehicles: Vida V1 (launched 2022)
+
+Leadership:
+- Chairman: Pawan Munjal
+- Employees: ~9,000+
+- Founded: 1984 (as Hero Honda), IPO: 2001
+
+--- MARKET DATA (As of May 2026) ---
+Estimated Current Price: ₹4,500 - ₹5,500 range
+Market Cap: Large Cap (~₹90,000 - ₹110,000 crores / ~$11-13 billion USD)
+Category: Large Cap Blue Chip
+52-Week Range: Approximately ₹3,800 - ₹5,800
+Average Daily Volume: 500,000 - 1,000,000 shares
+Sector: Automobile - Two Wheelers
+Industry: Auto Manufacturing
+
+--- KEY FINANCIAL METRICS ---
+P/E Ratio (Trailing): ~22-28 range
+P/B Ratio: ~3.5-5.0
+Revenue (TTM): ~₹35,000-38,000 crores
+Revenue Growth: 8-12% YoY
+EPS: ₹180-200 range
+Profit Margin: Net margin ~11-13%
+ROE: 18-22% (historically strong)
+ROCE: 25-30%
+Debt-to-Equity: Very low, ~0.01-0.05 (virtually debt-free)
+Dividend Yield: 2.5-3.5%
+
+YOUR MANDATE — Deliver a comprehensive technical analysis covering:
+
+1. TREND ANALYSIS
+   - Primary trend direction (bullish / bearish / sideways)
+   - EMA 20/50/200 alignment and slope
+   - Price position relative to key moving averages
+   - Higher highs / higher lows pattern (or inverse)
+
+2. SUPPORT & RESISTANCE
+   - Identify at least 3 support levels with reasoning
+   - Identify at least 3 resistance levels with reasoning
+   - Note which levels have highest confluence
+
+3. MOMENTUM INDICATORS
+   - RSI (14): current value and trend, overbought/oversold status
+   - MACD: signal line position, histogram direction, divergences
+   - Stochastic: %K/%D position and crossover status
+
+4. VOLUME ANALYSIS
+   - Current volume vs 20-day and 50-day average
+   - Accumulation/distribution pattern
+   - On-Balance Volume (OBV) trend
+   - Any volume divergences from price
+
+5. CHART PATTERNS
+   - Active patterns (flags, wedges, head & shoulders, cups, double tops/bottoms)
+   - Pattern completion percentage and implied target
+   - Breakout/breakdown levels
+
+6. ADDITIONAL TECHNICAL FACTORS
+   - Bollinger Band position (upper/middle/lower, squeeze status)
+   - Moving average crossovers (golden cross, death cross proximity)
+   - Relative strength vs NIFTY over 1-month, 3-month, 6-month periods
+   - Fibonacci retracement levels from recent swing
+
+SCORING — Provide a Technical Score (0-100) broken into:
+   - Trend Score (0-20): Are moving averages aligned bullishly?
+   - Momentum Score (0-20): Are oscillators confirming the trend?
+   - Volume Score (0-20): Is volume supporting the price action?
+   - Pattern Quality (0-20): Are there clear, actionable patterns?
+   - Relative Strength (0-20): Is this outperforming the market?
+
+Return your analysis in this exact format:
+## Technical Analysis: HEROMOTOCO.NS
+### Technical Score: [X]/100
+[Trend: X/20 | Momentum: X/20 | Volume: X/20 | Pattern: X/20 | Rel Strength: X/20]
+### Signal: [Bullish / Neutral / Bearish]
+[Then provide the full analysis organized by the 6 sections above]
+### Key Levels
+- Entry Zone: ₹X - ₹X
+- Stop Loss: ₹X (X% below entry)
+- Target 1: ₹X (X% upside)
+- Target 2: ₹X (X% upside)
+
+DISCLAIMER: This is for educational and research purposes only. Not financial advice.

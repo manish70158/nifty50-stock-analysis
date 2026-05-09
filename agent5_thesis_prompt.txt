@@ -1,0 +1,93 @@
+You are an Investment Thesis specialist. Synthesize an investment thesis for RELIANCE.NS using the discovery data below and your own additional research via WebSearch.
+
+DISCOVERY DATA:
+**RELIANCE INDUSTRIES LIMITED (RELIANCE.NS)**
+Generated: May 9, 2026
+
+CURRENT SITUATION:
+- Price: ₹1,435.20 | 52W Range: ₹1,290 - ₹1,611.80
+- Market Cap: ₹19.43 trillion (mega-cap)
+- Performance: +6.39% (1M), +2.21% (YTD)
+- Down -10.9% from 52W high
+
+COMPANY PROFILE:
+India's largest private sector corporation led by Mukesh Ambani
+Segments: Energy (world's largest refinery), Petrochemicals (top 10 global), Retail (20K stores, 349M customers), Jio Telecom (500M+ users), New Energy, Media (300M subscribers)
+
+VALUATION & QUALITY:
+- P/E: 44.29 (HIGH) | P/B: 3.43x | EPS: ₹32.40
+- ROE: 6.67% (LOW for quality) | Debt/Equity: 0.37 (healthy)
+- Dividend Yield: 0.38% (minimal)
+
+GROWTH CHALLENGE (KEY ISSUE):
+- Revenue Growth: -3.21% (contracting)
+- Profit Growth: -16.13% (significant decline)
+- 3-Year Profit CAGR: -3.37% (trend deteriorating)
+- Last Quarter: EPS missed estimates by -18.38%
+
+BULL CASE DRIVERS:
+✓ Jio IPO in H1 2026 (major value unlock potential)
+✓ New Energy push (green hydrogen, solar, batteries) for future growth
+✓ Retail expansion continuing (digital + physical)
+✓ Low leverage (0.37 D/E) provides flexibility
+✓ Mega-cap liquidity and index weight
+✓ Analyst targets: ₹1,510 - ₹1,910 (5-33% upside)
+
+BEAR CASE CONCERNS:
+✗ Expensive valuation (44x P/E) despite negative growth
+✗ Declining profitability across segments
+✗ Low returns (6.67% ROE) for the risk and valuation
+✗ Recent earnings miss signals execution issues
+✗ Cyclical headwinds in core energy/petrochem
+✗ Telecom competition (price wars with Airtel)
+✗ Regulatory risks across multiple sectors
+
+THE DILEMMA:
+Strong brand and diversification vs. rich valuation and weak fundamentals. Is the Jio IPO catalyst enough to justify current price?
+
+YOUR MANDATE — Build a complete investment thesis covering:
+
+1. CORE THESIS (2-3 sentences)
+   - Why this stock, why now, what is the edge
+
+2. BULL CASE
+   - 3-5 specific catalysts that could drive higher
+   - Bull target with timeline
+   - What needs to go right
+
+3. BEAR CASE
+   - 3-5 specific risks that could drive lower
+   - Bear target with timeline
+   - What needs to go wrong
+
+4. CATALYST CALENDAR
+   - Upcoming events (Jio IPO, earnings, product launches)
+   - Expected dates and impact direction
+
+5. ENTRY/EXIT STRATEGY
+   - Recommended entry zone with reasoning
+   - Stop-loss with reasoning
+   - Target 1 (conservative) and Target 2 (aggressive)
+   - Position sizing
+   - Timeframe (swing/position/long-term)
+
+6. CONVICTION ASSESSMENT
+   - What gives conviction (or lack thereof)
+   - Thesis invalidation triggers
+   - Opportunity cost vs NIFTY 50 or alternatives
+
+SCORING — Provide a Thesis Score (0-100):
+   - Catalyst Clarity (0-20): Clear, identifiable catalysts?
+   - Timing (0-20): Is timing right for entry?
+   - Asymmetry (0-20): Risk/reward skewed favorably?
+   - Edge (0-20): Identifiable informational/analytical edge?
+   - Conviction (0-20): Overall thesis confidence?
+
+Return your analysis in this exact format:
+## Investment Thesis: RELIANCE.NS
+### Thesis Score: [X]/100
+[Catalyst: X/20 | Timing: X/20 | Asymmetry: X/20 | Edge: X/20 | Conviction: X/20]
+### Thesis: [Strong / Moderate / Weak]
+[Then provide the full analysis organized by the 6 sections above]
+
+DISCLAIMER: This is for educational and research purposes only. Not financial advice.

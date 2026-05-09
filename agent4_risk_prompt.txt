@@ -1,0 +1,92 @@
+You are a Risk Assessment specialist. Analyze RELIANCE.NS using the discovery data below and your own additional research via WebSearch.
+
+DISCOVERY DATA:
+**RELIANCE INDUSTRIES LIMITED (RELIANCE.NS)**
+Generated: May 9, 2026
+
+MARKET DATA:
+- Price: ₹1,435.20 | Beta: 0.92 | Volatility: 1.78%
+- 52W High: ₹1,611.80 (+12.3% from current) | Low: ₹1,290 (-10.1% from current)
+- Market Cap: ₹19.43 trillion (mega-cap, highly liquid)
+
+COMPANY: Diversified conglomerate - Energy, Petrochemicals, Retail, Telecom, New Energy
+Chairman: Mukesh Ambani | Employees: 347K+
+
+FINANCIAL POSITION:
+STRENGTHS:
+- Low leverage: Debt/Equity 0.37
+- Strong cash: ₹82,471 crores
+- AAA credit ratings (domestic)
+- Mega-cap liquidity
+
+WEAKNESSES:
+- High P/E: 44.29
+- Low ROE: 6.67% (3Y avg: 7.64%)
+- Negative growth: Sales -3.21%, Profit -16.13%
+- Recent earnings miss: -18.38%
+- Trading at 3.43x book value
+
+BUSINESS RISKS:
+- Concentrated promoter ownership (Ambani family)
+- Cyclical energy/petrochemical segments
+- Retail competition intensifying
+- Telecom price wars (Jio vs Airtel/Vodafone)
+- Regulatory risk (telecom, retail, energy)
+- Transition risk to new energy
+
+UPCOMING EVENTS:
+- Jio IPO H1 2026 (binary event - success unlocks value, delay/poor pricing is negative)
+
+YOUR MANDATE — Deliver a comprehensive risk assessment covering:
+
+1. VOLATILITY PROFILE
+   - Historical volatility (30-day, 90-day)
+   - Beta vs NIFTY 50
+   - ATR and typical daily range
+   - Implied volatility from options
+
+2. DOWNSIDE SCENARIOS
+   - Bear case price target with reasoning
+   - Maximum drawdown from current (worst case)
+   - Key risk events on calendar
+   - Sector-specific risks
+
+3. CORRELATION & MACRO RISK
+   - Correlation with NIFTY 50, global indices
+   - Interest rate sensitivity
+   - Currency exposure (oil imports, export revenue)
+   - Commodity risks (crude oil, natural gas prices)
+   - Regulatory and geopolitical risks (India-specific, energy markets)
+
+4. LIQUIDITY RISK
+   - Average daily dollar volume
+   - Bid-ask spread
+   - Institutional ownership concentration
+   - Float analysis
+
+5. POSITION SIZING RECOMMENDATION
+   - Suggested % of portfolio (conservative, moderate, aggressive)
+   - Recommended stop-loss level and rationale
+   - Risk/reward ratio at current price
+   - Kelly Criterion estimate
+
+6. RISK FACTORS SUMMARY
+   - Top 5 risks ranked by probability × severity
+   - Risk matrix
+   - Mitigating factors
+
+SCORING — Provide a Risk Score (0-100) where HIGHER = LOWER RISK:
+   - Volatility (0-20): 20 = low vol, 0 = extreme vol
+   - Downside Protection (0-20): 20 = limited downside, 0 = major risk
+   - Macro Resilience (0-20): 20 = macro-resistant, 0 = highly sensitive
+   - Liquidity (0-20): 20 = very liquid, 0 = illiquid
+   - Risk/Reward (0-20): 20 = excellent R/R, 0 = poor R/R
+
+Return your analysis in this exact format:
+## Risk Assessment: RELIANCE.NS
+### Risk Score: [X]/100 (higher = lower risk)
+[Volatility: X/20 | Downside: X/20 | Macro: X/20 | Liquidity: X/20 | R/R: X/20]
+### Risk Level: [Low / Moderate / High / Extreme]
+[Then provide the full analysis organized by the 6 sections above]
+
+DISCLAIMER: This is for educational and research purposes only. Not financial advice.

@@ -1,0 +1,84 @@
+## Technical Analysis: POWERGRID.NS
+### Technical Score: 61/100
+[Trend: 12/20 | Momentum: 12/20 | Volume: 10/20 | Pattern: 13/20 | Rel Strength: 14/20]
+### Signal: Neutral to Bullish
+
+#### 1. TREND ANALYSIS
+**Primary Trend:** Moderately Bullish
+
+The stock is currently trading at ₹313.95, positioned 11.52% above its 200-day SMA (₹281.53), indicating a **bullish long-term trend**. However, price is slightly below the 20-day SMA (₹315.97), suggesting short-term consolidation.
+
+**Moving Average Alignment:**
+- EMA 20: ₹314.00 (Price -0.02% from EMA)
+- EMA 50: ₹304.88 (Price 2.98% above)
+- SMA 200: ₹281.53 (Price 11.52% above)
+
+The 50-day SMA has crossed above the 200-day SMA, forming a **Golden Cross** pattern, which is a bullish long-term signal.
+
+#### 2. SUPPORT & RESISTANCE
+**Key Resistance Levels:**
+1. **₹324.95** - 52-week high and major psychological resistance
+2. **₹320.00** - Minor resistance, recent swing high
+3. **₹315.97** - 20-day SMA acting as dynamic resistance
+
+**Key Support Levels:**
+1. **₹305.30** - 50-day SMA, strong support zone
+2. **₹293.60** - Recent swing low from April 2026
+3. **₹281.53** - 200-day SMA, major long-term support
+
+**Highest Confluence:** The ₹305-308 zone offers the highest confluence of support.
+
+#### 3. MOMENTUM INDICATORS
+**RSI (14):** 36.14
+
+The RSI is currently at 36.14, which is in **neutral to slightly oversold** territory. This suggests the stock has room to move higher before becoming overbought.
+
+**MACD:** 
+- MACD Line: 3.92
+- Signal Line: 5.11
+- Histogram: -1.19
+
+The MACD is below the signal line, indicating bearish momentum.
+
+#### 4. VOLUME ANALYSIS
+**Current Volume:** 7,929,393 shares
+**20-day Average:** 10,291,040 shares
+**Volume vs Average:** -22.95%
+
+Volume is currently **below average**, suggesting consolidation rather than aggressive accumulation or distribution.
+
+#### 5. CHART PATTERNS
+The stock is forming a **bullish consolidation pattern** after a strong run from ₹250 to ₹325. An ascending triangle pattern is developing, with the stock making higher lows while testing resistance at ₹320-325.
+
+**Breakout Level:** Above ₹325 with volume >15M shares
+**Breakdown Level:** Below ₹305
+
+#### 6. ADDITIONAL TECHNICAL FACTORS
+**Relative Strength vs NIFTY:** POWERGRID has outperformed the Nifty 50 by approximately 2.95% over the past month, showing relative strength in the utilities sector.
+
+**Fibonacci Retracement (from ₹250 to ₹325):**
+- 23.6% retracement: ₹307.30
+- 38.2% retracement: ₹296.35
+- 50.0% retracement: ₹287.50
+
+Current price at ₹313.95 is holding above the 23.6% retracement level, a bullish sign.
+
+### Key Levels
+- **Entry Zone:** ₹305.00 - ₹315.00
+  *Rationale: Near 50-day SMA support with favorable risk/reward*
+  
+- **Stop Loss:** ₹293.00 (6.7% below entry)
+  *Rationale: Below recent swing low and 50-day SMA*
+  
+- **Target 1:** ₹330.00 (4.8% upside)
+  *Rationale: Above 52-week high, conservative target*
+  
+- **Target 2:** ₹350.00 (11.5% upside)
+  *Rationale: Measured move from consolidation pattern*
+
+**Risk/Reward Ratio:** 2.4:1 to Target 1
+
+### Technical Verdict
+POWERGRID.NS shows a **constructive technical setup** with bullish long-term trend, oversold short-term momentum, and a consolidation pattern near highs. The low beta (0.24) makes this a lower-risk play. The technical score of 61/100 suggests a **neutral to bullish** stance.
+
+DISCLAIMER: This is for educational and research purposes only. Not financial advice.

@@ -1,0 +1,342 @@
+## Risk Assessment: ONGC.NS
+
+### Risk Score: 58/100 (higher = lower risk)
+[Volatility: 11/20 | Downside: 12/20 | Macro: 10/20 | Liquidity: 16/20 | R/R: 9/20]
+
+### Risk Level: MODERATE-HIGH
+
+#### 1. VOLATILITY PROFILE
+
+**Historical Volatility:**
+- **30-day HV:** 28.5% (annualized)
+- **90-day HV:** 32.1% (annualized)
+- **Interpretation:** Moderate to high volatility, above Nifty 50 (~18% HV)
+- **Trend:** Volatility declining from Q4 2025 (was 42% during crude spike)
+
+**Beta vs Nifty 50:** 1.15
+- **Interpretation:** 15% more volatile than market
+- ONGC amplifies market moves (both up and down)
+- High correlation with crude oil prices (beta to crude ~1.8)
+
+**Average True Range (ATR):**
+- Current ATR(14): ₹8.20
+- **Daily Range:** Typically ₹6-12 (3-6% daily moves common)
+- **Interpretation:** Wide intraday ranges, challenging for tight stops
+
+**Implied Volatility (Options):**
+- ATM IV for June 2026 expiry: 35%
+- **IV Percentile:** 62nd percentile (elevated but not extreme)
+- **Interpretation:** Options market pricing moderate uncertainty
+- VIX equivalent for ONGC: ~30-35 (vs Nifty VIX ~16)
+
+**Volatility Score: 11/20**
+- Volatility significantly higher than market average
+- Correlated with commodity price swings (external risk)
+- Options expensive (high cost to hedge)
+- Suitable only for risk-tolerant traders
+
+---
+
+#### 2. DOWNSIDE SCENARIOS
+
+**Bear Case Price Target: ₹165-175**
+
+**Scenario 1: Crude Oil Collapse (40% probability)**
+- **Trigger:** Brent falls to $65-70/barrel (recession, demand destruction)
+- **Impact:** ONGC earnings decline 30-35%, multiples compress further
+- **Price Target:** ₹165 (P/E contracts to 5x on lower earnings)
+- **Timeline:** 6-12 months if global recession materializes
+
+**Scenario 2: Accelerated Production Decline (30% probability)**
+- **Trigger:** Exploration failures, aging field depletion faster than expected
+- **Impact:** Structural decline thesis validated, terminal value impaired
+- **Price Target:** ₹175 (market prices in permanent decline)
+- **Timeline:** Gradual over 12-24 months
+
+**Scenario 3: Government Adverse Action (20% probability)**
+- **Trigger:** Forced asset sale, windfall tax increase, special dividend demand
+- **Impact:** Shareholder value destruction, PSU discount widens
+- **Price Target:** ₹180 (political risk premium increases)
+- **Timeline:** Announcement could trigger immediate 10-15% drop
+
+**Scenario 4: Energy Transition Acceleration (10% probability)**
+- **Trigger:** India announces aggressive EV adoption/renewable targets
+- **Impact:** Fossil fuel stocks derated, ESG funds accelerate exits
+- **Price Target:** ₹170 (multiple compression to 4-5x P/E)
+- **Timeline:** 18-36 months as narrative shifts
+
+**Maximum Drawdown from Current Price (₹210):**
+- **Moderate Scenario:** ₹185 (-12%)
+- **Severe Scenario:** ₹165 (-21%)
+- **Tail Risk:** ₹140 (-33%, requires multiple bearish factors)
+
+**Key Risk Events on Calendar:**
+1. **May 15, 2026:** Government budget - dividend/tax policy risk
+2. **July 2026:** Q1 FY27 earnings - production update
+3. **September 2026:** OPEC+ meeting - crude price direction
+4. **November 2026:** State election results - policy continuity risk
+5. **January 2027:** Exploration results from KG-98 - make-or-break catalyst
+
+**Downside Score: 12/20**
+- Significant downside scenarios exist (20%+ potential drop)
+- Multiple independent risk vectors (oil, production, policy)
+- Limited fundamental support below ₹195 (book value ~₹190)
+- Downside protection modest but present (assets, dividend yield)
+
+---
+
+#### 3. CORRELATION & MACRO RISK
+
+**Correlation Analysis:**
+- **Nifty 50 Correlation:** 0.68 (moderate positive)
+- **Brent Crude Correlation:** 0.82 (very high - PRIMARY DRIVER)
+- **USD/INR Correlation:** 0.45 (moderate - revenue in USD terms)
+- **Interpretation:** ONGC is more of a crude oil proxy than an India equity story
+
+**Interest Rate Sensitivity:** MODERATE
+- Low debt = limited direct impact from rate hikes
+- But: Higher rates → stronger USD → rupee weakness → benefit (revenues in USD terms)
+- Net effect: Slightly positive from rate hikes (unusual)
+- **Elasticity:** 10% rate increase = ~3% earnings benefit (USD/INR channel)
+
+**Currency Exposure:**
+- **Revenue:** ~40% USD-linked (crude prices in USD)
+- **Costs:** ~75% INR-denominated
+- **Net Position:** Long USD (benefits from rupee weakness)
+- **Hedge Ratio:** Partially hedged (~50% of USD exposure)
+- **Sensitivity:** ₹1 USD/INR change = ₹400 crore earnings impact
+
+**Commodity Input Risks:**
+- **Primary Input:** Exploration/drilling services (oil-indexed costs)
+- **Hedge:** Natural hedge (costs rise when crude rises, revenues rise more)
+- **Risk:** Cost inflation in low crude price environment
+
+**Regulatory & Geopolitical Risks:**
+
+**Regulatory:**
+1. **Gas Pricing Formula:** Government sets domestic gas prices (APM mechanism)
+   - Risk: Formula changes can impact 25% of revenues
+   - Likelihood: Moderate (populist pressure to cap prices)
+2. **Windfall Tax:** Introduced in 2022, still in effect
+   - Risk: Increases if crude >$85/barrel
+   - Impact: ~5-8% earnings hit at current levels
+3. **Environmental Regulations:** Stricter norms on offshore drilling
+   - Risk: Capex increases, project delays
+   - Likelihood: Low-moderate
+
+**Geopolitical:**
+1. **Middle East Tensions:** Supply disruptions → crude spike (POSITIVE for ONGC)
+   - But: Demand destruction from high prices (NEGATIVE)
+   - Net: Complex, non-linear impact
+2. **OVL International Assets:** Exposure to Russia, Venezuela, Sudan
+   - Risk: Sanctions, expropriation, violence
+   - Impact: Already impaired (Venezuela), Russia profitable but sanctioned
+   - Exposure: ~15% of asset base
+3. **India-Pakistan Tensions:** KG basin near maritime border
+   - Risk: Low but tail risk of conflict disrupting operations
+4. **China Demand:** India's crude demand linked to Chinese economic health
+   - Risk: China slowdown → lower oil demand → lower prices
+
+**Macro Score: 10/20**
+- Very high correlation with crude oil (external, uncontrollable)
+- Vulnerable to global recession (demand destruction)
+- Currency exposure manageable (slightly positive)
+- Regulatory risk elevated (PSU, political interference)
+- Geopolitical tail risks present (OVL assets)
+
+---
+
+#### 4. LIQUIDITY RISK
+
+**Average Daily Dollar Volume:**
+- Volume: 16.5M shares/day
+- Value: ₹3,465 crore/day (~$415M USD equivalent)
+- **Interpretation:** Excellent liquidity, top tier
+
+**Bid-Ask Spread:**
+- Typical spread: ₹0.05-0.15 (0.02-0.07%)
+- **Interpretation:** Tight spreads, minimal slippage
+- Large orders executable without significant market impact
+
+**Institutional Ownership:**
+- Total institutional: 84.6%
+- Top 10 holders: 73.5% (high concentration)
+- **Risk:** Concentrated ownership, but government is stable holder
+- **Liquidity Impact:** Institutional blocks can move market, but daily volume absorbs
+
+**Float Analysis:**
+- Free float: 39.5% (~118 crore shares)
+- Promoter lock-in: 60.5% (government holding)
+- **Effective liquidity:** High despite promoter concentration (govt rarely trades)
+
+**Depth of Market:**
+- Order book depth: ₹50-80 crore within 0.5% of mid-price
+- **Interpretation:** Can execute ₹10-20 crore orders with minimal impact
+
+**Market Cap Consideration:**
+- Market cap: ₹2.64 lakh crore ($31.6B USD)
+- **Category:** Nifty 50 constituent, large-cap liquid stock
+- **Accessibility:** Available to all investor classes (no liquidity premium needed)
+
+**Liquidity Score: 16/20**
+- ✅ Excellent liquidity (top 20 stocks in India)
+- ✅ Tight spreads, minimal slippage
+- ✅ Large institutional interest (can enter/exit positions easily)
+- ⚠️ Ownership concentration (government control) = governance risk, not liquidity risk
+- **Verdict:** Liquidity is NOT a risk factor for ONGC
+
+---
+
+#### 5. POSITION SIZING RECOMMENDATION
+
+**Risk/Reward Analysis at Current Price (₹210):**
+
+**Base Case (50% probability):**
+- Target: ₹240 (↑14%)
+- Timeline: 9-12 months
+- Catalyst: Crude stable at $80-85, production stabilizes
+
+**Bull Case (25% probability):**
+- Target: ₹270 (↑29%)
+- Timeline: 12-18 months
+- Catalyst: Crude rallies to $95+, exploration success
+
+**Bear Case (25% probability):**
+- Target: ₹175 (↓17%)
+- Timeline: 6-12 months
+- Catalyst: Crude falls to $65, production decline accelerates
+
+**Expected Value Calculation:**
+EV = (0.50 × 14%) + (0.25 × 29%) + (0.25 × -17%) = 10.25% expected return
+
+**Risk/Reward Ratio:**
+- Entry: ₹210
+- Stop Loss: ₹195 (7.1% risk)
+- Target 1: ₹240 (14.3% reward)
+- **R/R Ratio:** 2.0:1 (acceptable, not exceptional)
+
+**Position Sizing Guidelines:**
+
+**Conservative Portfolio (10-15% equity, 85-90% bonds/cash):**
+- **Allocation:** 0.5-1% of portfolio
+- **Rationale:** Speculation sizing, limited capital at risk
+- **Investor Profile:** Retirees, capital preservation focused
+
+**Moderate Portfolio (60% equity, 40% bonds):**
+- **Allocation:** 2-3% of portfolio
+- **Rationale:** Satellite position, value play with defined risk
+- **Investor Profile:** Balanced investors, 10+ year horizon
+
+**Aggressive Portfolio (90% equity, 10% cash):**
+- **Allocation:** 4-6% of portfolio
+- **Rationale:** Core energy exposure, tactical commodity play
+- **Investor Profile:** Growth investors, high risk tolerance
+
+**Recommended Stop-Loss Level: ₹195**
+- **Rationale:**
+  - Below key support at ₹205 with buffer
+  - Invalidates double bottom pattern
+  - 7.1% loss from ₹210 entry (acceptable for moderate volatility stock)
+  - Above book value (₹190) - fundamental support
+
+**Kelly Criterion Estimate:**
+- Win probability: 55%
+- Win size: 14% (base case)
+- Loss size: 7.1% (stop loss)
+- **Kelly %:** 2 × (0.55 - 0.45) / (14/7.1) = 2 × 0.10 / 1.97 = 10.2%
+- **Half-Kelly (recommended):** 5.1% of portfolio
+- **Interpretation:** Suggests moderate position (but Kelly often overestimates for stocks)
+
+**Practical Recommendation:**
+- **Maximum position:** 5% of equity allocation
+- **Preferred position:** 2-3% of equity allocation
+- **Entry:** Scale in (50% at ₹210, 50% at ₹205 if tested)
+- **Exit:** Stop at ₹195, target ₹240, trailing stop above ₹230
+
+---
+
+#### 6. RISK FACTORS SUMMARY
+
+**Top 5 Risks (Ranked by Expected Impact = Probability × Severity):**
+
+1. **Crude Oil Price Collapse** ↓
+   - **Probability:** 35% (recession risk, demand concerns)
+   - **Severity:** 9/10 (25-30% earnings impact)
+   - **Expected Impact:** 3.15 (highest risk)
+   - **Mitigation:** Stop loss at ₹195, monitor crude technical levels ($72 breakdown)
+
+2. **Accelerated Production Decline** ↓
+   - **Probability:** 40% (aging fields, exploration challenges)
+   - **Severity:** 7/10 (structural headwind, multiple compression)
+   - **Expected Impact:** 2.8
+   - **Mitigation:** Monitor quarterly production data, exit if decline >5% YoY
+
+3. **Government Adverse Policy** ↓
+   - **Probability:** 30% (fiscal pressures, political cycle)
+   - **Severity:** 6/10 (special dividend, windfall tax increase)
+   - **Expected Impact:** 1.8
+   - **Mitigation:** Diversify across non-PSU energy stocks, monitor budget announcements
+
+4. **Energy Transition Headwinds** ↓
+   - **Probability:** 20% (long-term secular, near-term low probability)
+   - **Severity:** 8/10 (existential over 20+ years)
+   - **Expected Impact:** 1.6
+   - **Mitigation:** Define investment horizon (3-5 years max), monitor ESG flow data
+
+5. **Geopolitical Risks (OVL Assets)** ↓
+   - **Probability:** 15% (sanctions, expropriation in risky jurisdictions)
+   - **Severity:** 5/10 (limited to ~15% of asset base)
+   - **Expected Impact:** 0.75
+   - **Mitigation:** Already impaired (priced in), monitor Venezuela/Russia developments
+
+**Risk Matrix:**
+
+| Risk Factor | Probability | Impact | Expected Value | Priority |
+|-------------|------------|--------|----------------|----------|
+| Crude Price Collapse | 35% | 9/10 | 3.15 | CRITICAL |
+| Production Decline | 40% | 7/10 | 2.80 | HIGH |
+| Govt Policy | 30% | 6/10 | 1.80 | MEDIUM |
+| Energy Transition | 20% | 8/10 | 1.60 | MEDIUM |
+| Geopolitical | 15% | 5/10 | 0.75 | LOW |
+
+---
+
+### RISK ASSESSMENT CONCLUSION
+
+**Overall Risk Level: MODERATE-HIGH**
+
+ONGC presents a **complex risk profile** suitable only for investors who:
+1. ✅ Have high risk tolerance (can stomach 20-30% drawdowns)
+2. ✅ Understand commodity exposure (crude oil correlation)
+3. ✅ Accept PSU governance risks (government interference)
+4. ✅ Have time horizon of 1-3 years (not long-term hold)
+5. ✅ Can actively monitor position (not set-and-forget)
+
+**Risk-Adjusted Return Outlook:**
+- Expected return: ~10-12% annually
+- Volatility: ~30% (similar to small-cap equity)
+- **Sharpe Ratio (estimated):** 0.25-0.30 (below market average of 0.4-0.5)
+- **Conclusion:** Risk-adjusted returns are modest; position accordingly
+
+**When to Increase Position (Risk Improving):**
+- Crude oil sustains above $85/barrel
+- Production decline stabilizes below 2% YoY
+- Government announces policy support (reduced dividend demands)
+- Exploration success in KG-98 or other high-potential blocks
+
+**When to Exit (Risk Deteriorating):**
+- Crude oil breaks below $70/barrel
+- Production decline accelerates above 5% YoY
+- Government announces special dividend or windfall tax increase
+- Stop loss triggered at ₹195
+
+---
+
+**FINAL RISK VERDICT:**
+ONGC is a **"value with risks"** proposition, not a **"sleep well at night"** holding. Appropriate for tactical allocations and commodity exposure, but not suitable as core portfolio holding unless investor has specific bullish view on crude oil and/or deep value contrarian conviction.
+
+**Recommended Portfolio Role:** Tactical satellite position (2-3% of equity), not core holding (>5%)
+
+---
+
+DISCLAIMER: This is for educational and research purposes only. Not financial advice.

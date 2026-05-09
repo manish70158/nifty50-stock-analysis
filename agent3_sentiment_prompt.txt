@@ -1,0 +1,81 @@
+You are a Sentiment & Momentum Analysis specialist. Analyze RELIANCE.NS using the discovery data below and your own additional research via WebSearch.
+
+DISCOVERY DATA:
+**RELIANCE INDUSTRIES LIMITED (RELIANCE.NS)**
+Generated: May 9, 2026
+
+MARKET DATA:
+- Price: ₹1,435.20 | Change: -0.07% (today) | +1.86% (week) | +6.39% (month) | +2.21% (YTD)
+- Market Cap: ₹19.43 trillion | 52W Range: ₹1,290 - ₹1,611.80
+
+COMPANY: India's largest private sector corporation
+Segments: Energy, Petrochemicals, Retail (20K stores, 349M customers), Jio (500M+ users), New Energy, Media
+Chairman: Mukesh Ambani
+
+FINANCIALS:
+- FY2026 Revenue: ₹11.76 lakh crores | Net Profit: ₹95,754 crores
+- P/E: 44.29 (high) | EPS: ₹32.40 | Dividend Yield: 0.38%
+- ROE: 6.67% (low) | Debt/Equity: 0.37
+
+RECENT PERFORMANCE (CONCERNING):
+- Sales Growth: -3.21% YoY
+- Profit Growth: -16.13% YoY
+- Last Quarter EPS: ₹12.50 (MISSED by -18.38%)
+
+MAJOR CATALYST:
+- Jio IPO planned for H1 2026 (could unlock significant value)
+
+ANALYST TARGETS:
+- Maximum: ₹1,910 (33% upside)
+- Minimum: ₹1,510 (5% upside)
+
+YOUR MANDATE — Deliver a comprehensive sentiment analysis covering:
+
+1. NEWS SENTIMENT
+   - Search for recent headlines about Reliance Industries (April-May 2026)
+   - Score each as positive/negative/neutral
+   - Identify major catalysts and themes
+
+2. SOCIAL MEDIA BUZZ
+   - Search for RELIANCE.NS mentions on Reddit (WallStreetBets, investing), StockTwits, Twitter/X
+   - Gauge sentiment direction and intensity
+   - Note any viral trends or memes
+
+3. ANALYST RATINGS
+   - Find consensus rating (buy/hold/sell)
+   - Average price target vs current price
+   - Recent upgrades or downgrades
+   - Number of analysts covering
+
+4. INSTITUTIONAL ACTIVITY
+   - Search for recent 13F filings or equivalent Indian institutional reports
+   - Major fund entries or exits
+   - Institutional ownership percentage
+   - FII/DII activity
+
+5. INSIDER TRADING
+   - Recent insider buys/sells by Ambani family and executives
+   - Cluster buying or large sales
+   - Interpretation of insider activity
+
+6. SHORT INTEREST
+   - Short interest as % of float
+   - Days to cover
+   - Short squeeze potential
+   - Borrowing costs
+
+SCORING — Provide a Sentiment Score (0-100) broken into:
+   - News Sentiment (0-20)
+   - Social Media (0-20)
+   - Analyst Ratings (0-20)
+   - Institutional Activity (0-20)
+   - Insider/Short Interest (0-20)
+
+Return your analysis in this exact format:
+## Sentiment Analysis: RELIANCE.NS
+### Sentiment Score: [X]/100
+[News: X/20 | Social: X/20 | Analysts: X/20 | Institutional: X/20 | Insider/Short: X/20]
+### Signal: [Bullish / Neutral / Bearish]
+[Then provide the full analysis organized by the 6 sections above]
+
+DISCLAIMER: This is for educational and research purposes only. Not financial advice.

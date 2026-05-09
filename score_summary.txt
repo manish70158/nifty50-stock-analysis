@@ -1,0 +1,55 @@
+COMPOSITE TRADE SCORE CALCULATION - SUNPHARMA.NS
+
+=== INDIVIDUAL SCORES ===
+
+1. TECHNICAL ANALYSIS: 72/100
+   - Trend: 18/20
+   - Momentum: 13/20
+   - Volume: 18/20
+   - Pattern: 11/20
+   - Rel Strength: 12/20
+
+2. FUNDAMENTAL ANALYSIS: 68/100
+   - Valuation: 8/20
+   - Growth: 16/20
+   - Profitability: 16/20
+   - Health: 14/20
+   - Moat: 14/20
+
+3. SENTIMENT ANALYSIS: 76/100
+   - News: 14/20
+   - Social: 15/20
+   - Analysts: 18/20
+   - Institutional: 14/20
+   - Insider/Short: 15/20
+
+4. RISK ASSESSMENT: 64/100
+   - Volatility: 18/20
+   - Downside: 12/20
+   - Macro: 13/20
+   - Liquidity: 16/20
+   - R/R: 5/20
+
+5. THESIS SYNTHESIS: 65/100
+   - Catalyst: 14/20
+   - Timing: 10/20
+   - Asymmetry: 11/20
+   - Edge: 15/20
+   - Conviction: 15/20
+
+=== WEIGHTED CALCULATION ===
+
+Technical:    72 × 0.25 = 18.00
+Fundamental:  68 × 0.25 = 17.00
+Sentiment:    76 × 0.20 = 15.20
+Risk:         64 × 0.15 =  9.60
+Thesis:       65 × 0.15 =  9.75
+
+COMPOSITE TRADE SCORE = 69.55 → 70/100
+
+=== GRADE & SIGNAL ===
+
+Score: 70/100
+Grade: A
+Signal: Buy (with timing considerations)
+

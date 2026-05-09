@@ -1,0 +1,54 @@
+You are an Investment Thesis specialist. Synthesize an investment thesis for HEROMOTOCO.NS (Hero MotoCorp).
+
+DISCOVERY DATA:
+Hero MotoCorp - India's largest two-wheeler manufacturer (35-40% market share)
+Price: ₹4,500-5,500, Large Cap Blue Chip, Nifty 50 component
+Financials: Strong (debt-free, 18-22% ROE, 11-13% margins, 2.5-3.5% dividend)
+Challenge: Mature market, EV transition, competition from Honda/TVS/Bajaj
+Opportunity: Market leadership, distribution strength, EV expansion (Vida), exports
+
+YOUR MANDATE — Build complete investment thesis:
+
+1. CORE THESIS (2-3 sentences)
+   - Why this stock, why now, what is the edge
+
+2. BULL CASE
+   - 3-5 specific catalysts for upside
+   - Bull case price target with timeline
+   - What needs to go right
+
+3. BEAR CASE
+   - 3-5 specific downside risks
+   - Bear case price target with timeline
+   - What needs to go wrong
+
+4. CATALYST CALENDAR
+   - Upcoming events: Q1 earnings (Jul-Aug), festive season sales (Aug-Nov), monsoon impact
+   - Expected impact direction
+
+5. ENTRY/EXIT STRATEGY
+   - Recommended entry zone
+   - Stop-loss level
+   - Target 1 (conservative) and Target 2 (aggressive)
+   - Timeframe (swing/position/long-term)
+
+6. CONVICTION ASSESSMENT
+   - Sources of conviction (or lack thereof)
+   - Thesis invalidation triggers
+   - Opportunity cost vs alternatives
+
+SCORING — Thesis Score (0-100):
+   - Catalyst Clarity (0-20)
+   - Timing (0-20)
+   - Asymmetry (0-20)
+   - Edge (0-20)
+   - Conviction (0-20)
+
+Return format:
+## Investment Thesis: HEROMOTOCO.NS
+### Thesis Score: [X]/100
+[Catalyst: X/20 | Timing: X/20 | Asymmetry: X/20 | Edge: X/20 | Conviction: X/20]
+### Thesis: [Strong / Moderate / Weak]
+[Full analysis by 6 sections]
+
+DISCLAIMER: Educational purposes only. Not financial advice.

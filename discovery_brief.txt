@@ -1,0 +1,91 @@
+DISCOVERY BRIEF: POWER GRID CORPORATION OF INDIA LIMITED (POWERGRID.NS)
+Date: May 9, 2026
+
+CURRENT PRICE & MARKET CONTEXT
+- Current Price: ₹313.95
+- Previous Close: ₹313.80
+- Day Change: +₹0.15 (+0.048%)
+- Market Cap: ₹2,919.9 billion (~$35 billion USD) - Large Cap
+- 52-Week Range: ₹250.00 - ₹324.95
+- Average Daily Volume: 14.6 million shares
+- Current Volume: 7.9 million (22.95% below average)
+- Sector: Utilities
+- Industry: Utilities - Regulated Electric
+- Beta: 0.24 (very low volatility relative to market)
+
+Market Context:
+- Nifty 50 Index: 24,176.15
+- POWERGRID 1-month performance: +3.70% (outperforming Nifty's +0.75% by 2.95%)
+- YTD Performance: +5.18%
+
+COMPANY OVERVIEW
+Company Name: Power Grid Corporation of India Limited
+Description: Power Grid Corporation of India Limited is India's largest electric power transmission utility. The company operates in three segments: Transmission Services (core business), Telecom Services, and Consultancy Services. As of March 31, 2025, POWERGRID owns and operates 180,195 circuit kilometers of transmission lines and 282 substations with aggregate transformation capacity of 551,961 MVA. The company is critical infrastructure for India's power sector, transmitting approximately 50% of total power generated in India.
+
+Key Facts:
+- Employees: 9,048
+- Headquarters: Gurugram, India
+- Website: https://www.powergrid.in
+- Government Ownership: 52.61% held by insiders/government
+- Institutional Ownership: 35.67%
+- Status: State-owned enterprise, Maharatna company
+
+RECENT NEWS & CATALYSTS
+Limited recent news available through data sources. Key ongoing themes for Indian power transmission sector include:
+1. India's aggressive renewable energy targets (500 GW by 2030)
+2. Grid modernization and smart grid initiatives
+3. Inter-regional transmission capacity expansion
+4. Government's focus on energy security and green corridors
+5. Consistent capex deployment in transmission infrastructure
+
+KEY FINANCIAL METRICS SNAPSHOT
+
+Valuation:
+- P/E Ratio (Trailing): 20.16
+- P/E Ratio (Forward): 16.96
+- Price to Book: 2.95
+- Price to Sales (TTM): 6.17
+- Enterprise Value: ₹4,220.1 billion
+- EV/Revenue: 8.91
+- EV/EBITDA: 10.69
+- Book Value per Share: ₹106.53
+
+Growth & Profitability:
+- Revenue (TTM): ₹473.4 billion
+- Revenue Growth (YoY): +10.3%
+- EBITDA: ₹394.9 billion
+- EPS (TTM): ₹15.57
+- Profit Margin: 32.79%
+- Operating Margin: 58.67%
+- Gross Margin: 97.82%
+
+Financial Health:
+- Total Debt: ₹1,396.8 billion
+- Total Cash: ₹96.4 billion
+- Debt-to-Equity: 141.19 (high, but typical for infrastructure/utility companies)
+- Free Cash Flow: Data not available
+
+Shareholder Returns:
+- Dividend Yield: 3.9%
+- Payout Ratio: 57.76%
+
+Technical Snapshot:
+- Current Price: ₹313.95
+- SMA 20: ₹315.97 (price 0.64% below)
+- SMA 50: ₹305.30 (price 2.83% above)
+- SMA 200: ₹281.53 (price 11.52% above)
+- RSI (14): 36.14 (approaching oversold territory)
+- 1-Year Volatility: 1.28% (low volatility)
+- 3-Month Return: +8.35%
+- 1-Year Return: +5.18%
+
+Analyst View:
+- Target Mean Price: ₹322.96 (2.9% upside)
+- Target High: ₹390.00 (24.2% upside)
+- Target Low: ₹267.00 (15.0% downside)
+- Recommendation: None specified (likely Hold)
+
+Peer Comparison (Utilities Sector):
+- NTPC.NS: P/E 22.27, Market Cap ₹3,899.5B
+- POWERGRID.NS: P/E 20.16, Market Cap ₹2,919.9B
+- ADANIPOWER.NS: P/E 34.04, Market Cap ₹4,345.4B

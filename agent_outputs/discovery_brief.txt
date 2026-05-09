@@ -1,0 +1,60 @@
+DISCOVERY BRIEF: SUNPHARMA.NS - Sun Pharmaceutical Industries Limited
+Analysis Date: May 9, 2026
+
+CURRENT MARKET DATA:
+- Current Price: ₹1,847.90
+- Daily Change: +₹13.50 (+0.74%)
+- 52-Week High: ₹1,857.80 (just 0.5% away - near ATH)
+- 52-Week Low: ₹1,538.01
+- Market Cap: ₹4.43 trillion (Large Cap)
+- Sector: Healthcare
+- Industry: Drug Manufacturers - Specialty & Generic
+- Average Daily Volume: 2.72 million shares
+
+COMPANY OVERVIEW:
+Sun Pharmaceutical Industries Limited is India's leading generic pharmaceutical company, founded in 1983 and headquartered in Mumbai. The company develops, manufactures, and markets branded and generic formulations and active pharmaceutical ingredients (APIs) globally. With 43,000 employees, Sun Pharma operates in various therapeutic areas including neuropsychiatry, cardiology, diabetes, gastroenterology, ophthalmology, dermatology, and oncology. The company exports to approximately 90 countries across Asia, North America, Europe, Africa, South America, and Australia.
+
+KEY FINANCIAL METRICS:
+- P/E Ratio (Trailing): 40.62
+- Forward P/E: 32.66
+- PEG Ratio: 1.04
+- Price to Book: 5.70
+- Price to Sales: 7.80
+- Revenue (TTM): ₹568.09 billion
+- Revenue Growth (YoY): 13.50%
+- EPS (TTM): ₹45.49
+- Earnings Growth (YoY): 15.70%
+- Profit Margin: 19.21%
+- Operating Margin: 26.17%
+- Gross Margin: 78.54%
+- Debt to Equity: 6.675 (moderate debt)
+- Total Cash: ₹278.80 billion
+- Total Debt: ₹52.15 billion
+- Dividend Yield: 0.89% (verified)
+- Payout Ratio: 35.16%
+- Beta: 0.097 (very low volatility vs market)
+
+TECHNICAL SNAPSHOT:
+- Trend: Strong uptrend, price trading 4.36% above EMA 20 and 5.80% above EMA 50
+- RSI (14): 76.18 (Overbought territory)
+- MACD: Bullish (31.79 vs Signal 15.13, positive histogram 16.66)
+- Bollinger Bands: Trading at 86% of band width (near upper band)
+- Volume: Recent 20-day average at 5.87M, up 142% vs earlier period (strong accumulation)
+- Performance: 1M: +11.66%, 3M: +8.41%, 6M: +7.05%
+- Relative Strength: Outperforming NIFTY by +9.98% (1M) and +14.31% (3M)
+
+OWNERSHIP & SENTIMENT:
+- Insider Ownership: 55.62% (very high, family-controlled business)
+- Institutional Ownership: 28.64%
+- Analyst Consensus: 7 Strong Buy, 22 Buy, 0 Hold, 1 Sell, 2 Strong Sell
+- Net Analyst Sentiment: Highly Bullish (29 buy ratings vs 3 sell ratings = 91% buy-side)
+
+RECENT CATALYSTS & NEWS:
+- Stock trading near 52-week high, suggesting strong recent momentum
+- Significant volume increase (142%) indicates institutional accumulation
+- Pharma sector benefiting from India's growing healthcare needs and global generic drug demand
+
+MARKET CONTEXT (May 2026):
+- NIFTY 1-Month: +1.69%
+- NIFTY 3-Month: -5.91%
+- Sun Pharma significantly outperforming the broader market

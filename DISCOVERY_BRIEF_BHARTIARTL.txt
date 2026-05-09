@@ -1,0 +1,98 @@
+=============================================================================
+DISCOVERY BRIEF: BHARTI AIRTEL LIMITED (BHARTIARTL.NS)
+Analysis Date: May 9, 2026
+=============================================================================
+
+COMPANY OVERVIEW:
+-----------------
+Company Name: Bharti Airtel Limited
+Ticker: BHARTIARTL.NS
+Exchange: NSE (National Stock Exchange of India)
+Sector: Telecommunications
+Industry: Telecom Services
+
+Business Description:
+Bharti Airtel Limited is India's leading telecommunications services provider with
+operations across 18 countries in South Asia and Africa. The company provides:
+- Mobile services (prepaid and postpaid)
+- Fixed broadband and fiber services
+- Digital TV services (DTH)
+- Enterprise solutions and cloud services
+- Digital payments and financial services
+
+Headquarters: New Delhi, India
+Founded: 1995
+IPO Year: 2002
+CEO: Gopal Vittal (India & South Asia CEO)
+Employees: Approximately 30,000+
+
+Key Business Segments:
+1. Mobile Services (India) - Primary revenue driver
+2. Airtel Business (Enterprise Services)
+3. Homes (Broadband & DTH)
+4. Digital Services (Airtel Payments Bank, Wynk Music, etc.)
+5. Africa Operations (present in 14 African countries)
+
+MARKET POSITION:
+----------------
+- #2 telecom operator in India by subscribers (after Jio)
+- Leading player in premium postpaid segment
+- Strong presence in enterprise and SMB segment
+- Largest telecom operator in Africa by geography
+- Key competitor to Reliance Jio and Vodafone Idea in India
+
+MARKET DATA TO BE RESEARCHED BY AGENTS:
+---------------------------------------
+Agents should perform WebSearch to find current:
+- Stock Price (as of May 9, 2026)
+- Market Capitalization
+- Price Change (daily %)
+- 52-Week High/Low
+- Average Daily Volume
+- P/E Ratio (Trailing & Forward)
+- Revenue (TTM) and YoY Growth
+- EPS (TTM) and YoY Growth
+- Debt-to-Equity Ratio
+- Profit Margins
+- Free Cash Flow
+- Dividend Yield
+- Short Interest
+
+RECENT DEVELOPMENTS TO RESEARCH:
+---------------------------------
+Agents should search for:
+- Latest earnings results (Q4 FY2025 or Q1 FY2026)
+- Recent tariff hikes in Indian telecom sector
+- 5G rollout progress and subscriber additions
+- ARPU (Average Revenue Per User) trends
+- Africa operations performance
+- Debt reduction initiatives
+- Spectrum acquisition updates
+- Regulatory developments (TRAI policies, AGR dues)
+- Competition dynamics with Jio and Vi
+
+KEY INDUSTRY TRENDS (2026):
+---------------------------
+- Indian telecom consolidation (3-player market)
+- 5G monetization strategies emerging
+- ARPU improvement cycle after tariff hikes
+- Digital services and fintech expansion
+- Fiber broadband growth
+- Enterprise and cloud services growth
+- Africa market stabilization
+
+MACRO CONTEXT:
+--------------
+- Indian economy growth trajectory
+- Digital India initiatives
+- Rural internet penetration
+- Regulatory environment for telecom
+- Currency impacts (INR for India ops, various African currencies)
+- Interest rate environment affecting debt servicing
+
+=============================================================================
+INSTRUCTIONS FOR AGENTS:
+Each agent should use WebSearch to gather current, live data for May 2026
+to supplement this foundational information. Focus on data from the last
+30-90 days for news, and most recent quarter for financial metrics.
+=============================================================================
