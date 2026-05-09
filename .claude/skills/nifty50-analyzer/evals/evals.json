@@ -1,0 +1,26 @@
+{
+  "skill_name": "nifty50-analyzer",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Can you analyze all the Nifty 50 stocks and give me a comprehensive CSV report showing which ones are the best buys right now? I need to see the scores across different dimensions.",
+      "expected_output": "A CSV file with all 50 Nifty stocks ranked by Trade Score, showing Technical, Fundamental, Sentiment, and Risk scores, plus recommendations. Should be sorted with highest scores first.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 2,
+      "prompt": "I want to do a bulk analysis of India's top 50 companies. Screen the entire Nifty 50 index and consolidate the results so I can compare them.",
+      "expected_output": "A CSV file containing comprehensive analysis of all Nifty 50 stocks with scores and recommendations, properly ranked and formatted for easy comparison.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 3,
+      "prompt": "Hey, can you run a complete analysis on the nifty50 stocks? I need to see which sectors and companies are looking strong. Export everything to a csv so i can sort and filter later.",
+      "expected_output": "A CSV file with all 50 stocks analyzed, ranked by performance, with all relevant scores and a recommendation for each stock. Should handle any failures gracefully.",
+      "files": [],
+      "assertions": []
+    }
+  ]
+}
