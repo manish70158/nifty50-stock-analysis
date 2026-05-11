@@ -1,0 +1,52 @@
+Rank,Ticker,Company,Trade_Score,Technical_Score,Fundamental_Score,Sentiment_Score,Risk_Score,Recommendation,Status,Notes
+1,ADANIGREEN.NS,Adani Green Energy,89.0,85,92,88,90,Strong Buy,SUCCESS,Renewable energy leader with strong momentum
+2,SBILIFE.NS,SBI Life Insurance,84.0,70,100,81,94,Buy,SUCCESS,Defensive growth with premium quality
+3,NESTLEIND.NS,Nestle India,83.65,75,95,82,88,Buy,SUCCESS,Quality FMCG compounder with pricing power
+4,COALINDIA.NS,Coal India,81.0,78,86,80,82,Buy,SUCCESS,PSU with strong cash flows and dividend yield
+5,APOLLOHOSP.NS,Apollo Hospitals,78.9,72,88,76,80,Buy,SUCCESS,Healthcare leader with structural tailwinds
+6,HEROMOTOCO.NS,Hero MotoCorp,77.5,70,82,78,80,Buy,SUCCESS,Two-wheeler leader with EV transition
+7,SUNPHARMA.NS,Sun Pharmaceutical,77.0,68,84,82,74,Buy,SUCCESS,Pharma major with US market recovery
+8,HINDUNILVR.NS,Hindustan Unilever,76.7,65,88,75,78,Hold/Accumulate,SUCCESS,Defensive FMCG with premium valuation
+9,HINDALCO.NS,Hindalco Industries,76.0,68,80,77,75,Buy,SUCCESS,Operational turnaround with margin expansion
+10,ASIANPAINT.NS,Asian Paints,76.3,88,65,65,74,Buy,SUCCESS,Technical breakout but expensive valuation
+11,TITAN.NS,Titan Company,75.15,72,80,74,75,Hold/Accumulate,SUCCESS,Quality jeweler with growth visibility
+12,ADANIPORTS.NS,Adani Ports,76.0,82,75,72,76,Buy,SUCCESS,Port infrastructure play on trade growth
+13,GRASIM.NS,Grasim Industries,76.0,70,78,76,80,Hold/Accumulate,SUCCESS,Diversified conglomerate with cement focus
+14,BAJFINANCE.NS,Bajaj Finance,74.75,67,85,71,75,Buy,SUCCESS,Quality NBFC with digital transformation
+15,SBIN.NS,State Bank of India,73.0,65,78,75,73,Buy,SUCCESS,PSU bank with improving asset quality
+16,POWERGRID.NS,Power Grid Corporation,72.2,65,78,69,77,Buy,SUCCESS,Regulated utility with predictable returns
+17,INDUSINDBK.NS,IndusInd Bank,72.0,62,80,70,76,Hold/Accumulate,SUCCESS,Private bank with vehicle finance strength
+18,CIPLA.NS,Cipla,72.0,68,76,72,72,Buy,SUCCESS,Diversified pharma with respiratory portfolio
+19,EICHERMOT.NS,Eicher Motors,71.0,75,70,68,72,Buy,SUCCESS,Royal Enfield growth and CV recovery
+20,TATACONSUM.NS,Tata Consumer Products,70.85,58,78,72,75,Buy,SUCCESS,FMCG with Tata brand and expansion plans
+21,HINDUNILVR.NS,Hindustan Unilever,69.0,65,72,70,68,Hold/Accumulate,SUCCESS,Defensive consumer staples
+22,JSWSTEEL.NS,JSW Steel,68.0,68,55,62,48,Hold/Accumulate,SUCCESS,Steel play but premium valuation concerns
+23,SHRIRAMFIN.NS,Shriram Finance,67.0,62,72,68,64,Hold/Accumulate,SUCCESS,CV finance with strong fundamentals
+24,HDFCBANK.NS,HDFC Bank,65.8,38,84,67,72,Hold/Accumulate,SUCCESS,Banking leader but technical weakness
+25,LT.NS,Larsen & Toubro,65.8,62,70,65,68,Hold/Accumulate,SUCCESS,Infrastructure giant with order book visibility
+26,AXISBANK.NS,Axis Bank,64.0,55,72,65,66,Hold/Accumulate,SUCCESS,Private bank with retail focus
+27,DRREDDY.NS,Dr. Reddy's Laboratories,63.0,60,68,62,64,Buy,SUCCESS,Pharma with generic and branded mix
+28,ONGC.NS,Oil & Natural Gas Corp,62.0,58,66,63,62,Hold/Accumulate,SUCCESS,Oil PSU sensitive to crude prices
+29,MARUTI.NS,Maruti Suzuki,61.0,65,60,58,62,Hold/Accumulate,SUCCESS,Auto leader with volume concerns
+30,BRITANNIA.NS,Britannia Industries,61.0,42,74,62,61,Hold/Accumulate,SUCCESS,Biscuit leader at correction levels
+31,BPCL.NS,Bharat Petroleum,61.0,26,94,55,68,Hold/Accumulate,SUCCESS,Deep value PSU with privatization option
+32,RELIANCE.NS,Reliance Industries,60.0,55,65,62,60,Buy,SUCCESS,Diversified conglomerate with retail-digital focus
+33,ITC.NS,ITC Limited,59.8,38,78,52,72,Hold/Accumulate,SUCCESS,Quality value trap with tobacco stigma
+34,JSWSTEEL.NS,JSW Steel,59.0,68,55,62,48,Hold/Accumulate,SUCCESS,Wait for better entry on pullback
+35,BHARTIARTL.NS,Bharti Airtel,58.0,52,62,60,58,Hold/Accumulate,SUCCESS,Telecom leader with 5G rollout
+36,TITAN.NS,Titan Company,55.0,42,68,55,52,Hold/Accumulate On Dips,SUCCESS,Crashed -6.73% today - wait for ₹3800-4000
+37,ADANIENT.NS,Adani Enterprises,51.7,48,55,52,52,Neutral/Hold,SUCCESS,Conglomerate with diverse interests
+38,TATASTEEL.NS,Tata Steel,50.0,45,52,50,52,Hold/Accumulate,SUCCESS,Steel cyclical with debt concerns
+39,HCLTECH.NS,HCL Technologies,48.0,32,62,48,50,Neutral,SUCCESS,Dividend income play (8.01% yield) - deeply oversold
+40,BAJAJFINSV.NS,Bajaj Finserv,44.0,40,48,44,44,Buy,SUCCESS,Financial services holding company
+41,TCS.NS,Tata Consultancy Services,32.0,28,42,30,28,Hold/Accumulate,SUCCESS,IT services with muted growth outlook
+42,WIPRO.NS,Wipro,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+43,NTPC.NS,NTPC,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+44,INFY.NS,Infosys,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+45,DIVISLAB.NS,Divi's Laboratories,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+46,ICICIBANK.NS,ICICI Bank,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+47,M&M.NS,Mahindra & Mahindra,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+48,TECHM.NS,Tech Mahindra,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+49,KOTAKBANK.NS,Kotak Mahindra Bank,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+50,LTIM.NS,LTIMindtree,N/A,N/A,N/A,N/A,N/A,N/A,IN PROGRESS,Analysis still running
+-,ULTRACEMCO.NS,UltraTech Cement,N/A,N/A,N/A,N/A,N/A,N/A,FAILED,Data access limitations - WebFetch blocked
