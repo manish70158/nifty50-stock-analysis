@@ -23,3 +23,31 @@ Thumbs.db
 # Temporary files
 /tmp/
 *.tmp
+
+# Temporary agent outputs
+agent_outputs/
+agent-outputs/
+agent_tasks/
+analysis-workspace/
+analysis_temp/
+analysis_output/
+analysis_agents/
+
+# Temporary brief files
+.agent_brief.txt
+agent_brief.txt
+agent_discovery_brief.txt
+discovery_brief*.txt
+
+# Temporary Python scripts (agent execution files)
+agent*_*.py
+*_analysis.py
+*_output.txt
+*_synthesis.py
+
+# Temporary analysis files
+fundamental_output.txt
+risk_output.txt
+sentiment_output.txt
+technical_output.txt
+thesis_output.txt
