@@ -1,0 +1,257 @@
+╔═══════════════════════════════════════════════════════════════╗
+║     STOCK ANALYSIS FRAMEWORK - COMMAND CHEATSHEET            ║
+║     Alternative to /trade-analyze skill (no tokens)          ║
+╚═══════════════════════════════════════════════════════════════╝
+
+┌─────────────────────────────────────────────────────────────┐
+│ QUICKEST START (One Command → Full Analysis)               │
+└─────────────────────────────────────────────────────────────┘
+
+  ./simple_analyze.sh TICKER NSE
+
+  Example:  ./simple_analyze.sh MUTHOOTFIN NSE
+  Output:   TRADE-ANALYSIS-MUTHOOTFIN.md
+  Time:     3-5 minutes
+  Cost:     ~$0.50-0.75
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ MANUAL CONTROL (Framework + You Run Agents)                │
+└─────────────────────────────────────────────────────────────┘
+
+  # 1. Generate framework
+  ./analyze_stock.sh TICKER NSE
+
+  # 2. Run each agent (can do in parallel)
+  claude agentic --model sonnet < agent_outputs/agent1_technical_prompt.txt > agent_outputs/agent1_technical.txt
+  claude agentic --model sonnet < agent_outputs/agent2_fundamental_prompt.txt > agent_outputs/agent2_fundamental.txt
+  claude agentic --model sonnet < agent_outputs/agent3_sentiment_prompt.txt > agent_outputs/agent3_sentiment.txt
+  claude agentic --model sonnet < agent_outputs/agent4_risk_prompt.txt > agent_outputs/agent4_risk.txt
+  claude agentic --model sonnet < agent_outputs/agent5_thesis_prompt.txt > agent_outputs/agent5_thesis.txt
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ FULL AUTOMATION (Python with Parallel Execution)           │
+└─────────────────────────────────────────────────────────────┘
+
+  python stock_analyzer.py TICKER --market NSE
+
+  Example:  python stock_analyzer.py MUTHOOTFIN --market NSE
+  Features: All 5 agents run in parallel, auto-scoring
+  Time:     5-10 minutes
+  Cost:     ~$0.75-1.00
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ BATCH ANALYSIS (Multiple Stocks)                           │
+└─────────────────────────────────────────────────────────────┘
+
+  # Sequential
+  for ticker in STOCK1 STOCK2 STOCK3; do
+      ./simple_analyze.sh $ticker NSE
+  done
+
+  # Parallel (requires GNU parallel)
+  parallel ./simple_analyze.sh {} NSE ::: STOCK1 STOCK2 STOCK3
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ VIEW RESULTS                                                │
+└─────────────────────────────────────────────────────────────┘
+
+  # Full report
+  cat TRADE-ANALYSIS-TICKER.md
+  less TRADE-ANALYSIS-TICKER.md
+  code TRADE-ANALYSIS-TICKER.md
+
+  # Quick score lookup
+  grep "Composite" TRADE-ANALYSIS-*.md
+
+  # Individual agent outputs
+  cat agent_outputs/agent1_technical.txt
+  cat agent_outputs/agent2_fundamental.txt
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ COST OPTIMIZATION                                           │
+└─────────────────────────────────────────────────────────────┘
+
+  # Use cheaper Haiku model (5x cheaper)
+  # In scripts, change: --model sonnet → --model haiku
+
+  # simple_analyze.sh with Haiku:
+  cat <<EOF | claude --model haiku > output.md
+  [prompt content]
+  EOF
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ SCHEDULED ANALYSIS (Cron Job)                              │
+└─────────────────────────────────────────────────────────────┘
+
+  # Edit crontab
+  crontab -e
+
+  # Add daily analysis at 9 AM (weekdays only)
+  0 9 * * 1-5 cd /path/to/analysis && ./simple_analyze.sh NIFTY NSE
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ TROUBLESHOOTING                                             │
+└─────────────────────────────────────────────────────────────┘
+
+  # Check Claude CLI
+  which claude
+
+  # Check API key
+  echo $ANTHROPIC_API_KEY
+
+  # Make scripts executable
+  chmod +x simple_analyze.sh analyze_stock.sh stock_analyzer.py
+
+  # Test with simple command
+  ./simple_analyze.sh --help
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ FILES CREATED                                               │
+└─────────────────────────────────────────────────────────────┘
+
+  Core Scripts:
+  ✓ simple_analyze.sh (8.4K)         - One-command analysis
+  ✓ analyze_stock.sh (13K)           - Manual control
+  ✓ stock_analyzer.py (23K)          - Python automation
+
+  Documentation:
+  ✓ QUICKSTART.md (7.9K)             - Quick start guide
+  ✓ README-STOCK-ANALYZER.md (15K)   - Full documentation
+  ✓ CREATED_FILES_SUMMARY.md (13K)   - What was created
+  ✓ COMMANDS_CHEATSHEET.txt (this)   - Command reference
+
+  Example Output:
+  ✓ TRADE-ANALYSIS-MUTHOOTFIN.md     - Sample complete analysis
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ COMPARISON: SKILL vs SCRIPTS                               │
+└─────────────────────────────────────────────────────────────┘
+
+  ┌────────────────┬─────────────────┬─────────────────┐
+  │ Feature        │ /trade-analyze  │ These Scripts   │
+  ├────────────────┼─────────────────┼─────────────────┤
+  │ Cost           │ 1 skill token   │ ~$0.50-0.75     │
+  │ Customization  │ None            │ Full            │
+  │ Weights        │ Fixed           │ Adjustable      │
+  │ Model Choice   │ Sonnet only     │ Any model       │
+  │ Add Agents     │ Not possible    │ Easy            │
+  │ Batch Analysis │ Manual only     │ Automated       │
+  │ Control        │ Black box       │ Full visibility │
+  └────────────────┴─────────────────┴─────────────────┘
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ EXAMPLE WORKFLOW                                            │
+└─────────────────────────────────────────────────────────────┘
+
+  # Morning routine: Analyze watchlist
+  ./simple_analyze.sh MUTHOOTFIN NSE
+  ./simple_analyze.sh MANAPPURAM NSE
+  ./simple_analyze.sh BAJFINANCE NSE
+
+  # Compare scores
+  grep "Composite Trade Score" TRADE-ANALYSIS-*.md
+
+  # Review top pick
+  cat TRADE-ANALYSIS-MUTHOOTFIN.md
+
+  # Make decision based on:
+  # - Composite Score > 70 = Consider buying
+  # - Grade A or A+ = Strong candidate
+  # - Check entry/exit strategy section
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ SCORING REFERENCE                                           │
+└─────────────────────────────────────────────────────────────┘
+
+  Composite Score:
+  85-100  A+  Strong Buy       🟢
+  70-84   A   Buy              🟢
+  55-69   B   Hold/Accumulate  🟡
+  40-54   C   Neutral          🟡
+  25-39   D   Caution          🔴
+  0-24    F   Avoid            🔴
+
+  Formula:
+  Composite = (Technical × 0.25) + (Fundamental × 0.25) +
+              (Sentiment × 0.20) + (Risk × 0.15) + (Thesis × 0.15)
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ GETTING HELP                                                │
+└─────────────────────────────────────────────────────────────┘
+
+  Read docs:  cat QUICKSTART.md
+              cat README-STOCK-ANALYZER.md
+              cat CREATED_FILES_SUMMARY.md
+
+  Test setup: ./simple_analyze.sh AAPL NYSE
+
+  Debug:      Check agent_outputs/*.txt for individual results
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ CUSTOMIZATION EXAMPLES                                      │
+└─────────────────────────────────────────────────────────────┘
+
+  # Change agent weights (edit stock_analyzer.py):
+  self.weights = {
+      "technical": 0.30,    # More weight
+      "fundamental": 0.30,
+      "sentiment": 0.15,    # Less weight
+      "risk": 0.15,
+      "thesis": 0.10
+  }
+
+  # Add 6th agent (sector analysis):
+  # 1. Create agent6_sector_prompt.txt
+  # 2. Add to agents_config in script
+  # 3. Update weights to include sector
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ TIPS & BEST PRACTICES                                      │
+└─────────────────────────────────────────────────────────────┘
+
+  ✓ Start with simple_analyze.sh for fastest results
+  ✓ Use Haiku model for 5x cost savings
+  ✓ Verify AI analysis with independent research
+  ✓ Check multiple timeframes (technical analysis)
+  ✓ Compare with peer companies (fundamental)
+  ✓ Always use stop-losses as recommended
+  ✓ Position size according to risk profile
+  ✓ This is educational only, NOT financial advice
+
+
+┌─────────────────────────────────────────────────────────────┐
+│ NEXT STEPS                                                  │
+└─────────────────────────────────────────────────────────────┘
+
+  1. Test the system:
+     ./simple_analyze.sh MUTHOOTFIN NSE
+
+  2. Read the output:
+     cat TRADE-ANALYSIS-MUTHOOTFIN.md
+
+  3. Analyze your watchlist:
+     ./simple_analyze.sh YOURSTOCK NSE
+
+  4. Automate if needed:
+     python stock_analyzer.py BATCH
+
+
+═══════════════════════════════════════════════════════════════
+  For full documentation, see README-STOCK-ANALYZER.md
+  For quick start, see QUICKSTART.md
+  For understanding, see CREATED_FILES_SUMMARY.md
+═══════════════════════════════════════════════════════════════
